@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Raleigh Felton]]></title>
         <description><![CDATA[Raleigh Felton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raleigh-felton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 13:47:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 13:47:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raleigh-felton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Raleigh Felton // Multidisciplinary Designer & creator of CRNT Surf App]]></title>
+            <description><![CDATA[<article><h1>Raleigh Felton // Multidisciplinary Designer & creator of CRNT Surf App</h1><p>I am a multidisciplinary designer, father, creator of CRNT Surf App & Design Lead for Mobelux. I enjoying doing all kinds of design work but I love projects that solve real problems. I enjoy design from conception and brand, user flows all the way to how a user interacts with different elements.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d1b256e9f8474323281c4cadb2f5807/noop.jpg?input=http%3A%2F%2Fraleighfelton.com%2Fimages%2Fiamnow%2Fiamnow-thumb.jpg"></article>]]></description>
+            <link>http://raleighfelton.com/</link>
+            <guid isPermaLink="false">1af0f96b-a705-42f3-b2f5-7470cdb2846c</guid>
+            <pubDate>Mon, 20 Jun 2016 13:47:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cff84b66-63d2-44da-a81c-04374ebc0f20.jpg">]]></description>
-            <link>undefined21dbfe4e-8894-47bb-9cf5-9b2ee3c20113/index.html</link>
+            <link>https://thegrid.ai/raleigh-felton/21dbfe4e-8894-47bb-9cf5-9b2ee3c20113/index.html</link>
             <guid isPermaLink="false">21dbfe4e-8894-47bb-9cf5-9b2ee3c20113</guid>
             <pubDate>Mon, 20 Jun 2016 13:47:57 GMT</pubDate>
         </item>
